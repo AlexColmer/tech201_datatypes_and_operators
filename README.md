@@ -81,3 +81,19 @@ this will print out pi to three decimal places
 
 `print(f"You scored {score/max_score:%}")`
 this allows you to get a percentage back 
+
+
+### boolean 
+`hi = "Hello world!"`
+
+`print(hi.isalpha())` this chekcs if everything is aplha numeric
+`print(hi.islower())` 
+`print(hi.endswith("world!"))`
+`print(hi.startswith("H"))`
+
+### none is n object type null in alot of other languages 
+
+if you ask python whether non is true or false you always get back false. if you check whether something is == to none it is still false. none is not true or false it just exists.
+
+it can be used as a placeholder for a variable. `print(x is None)` best practice for checking if something is None `<class 'NoneType'>`
+
