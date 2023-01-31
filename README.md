@@ -27,7 +27,19 @@ print(reverse_quote)` this is the one pople tend to use
 
 
 everyone starts with 0 in code not 1
-![](List-Slicing.jpg)
+
+h e l l o    w o r l d !
+
+1 2 3 4   5  6 7 8 9 10 11
+`Hw = "Hello world!"`
+
+`print(Hw[7:])  orld!`
+
+`print(Hw[-5:])  orld!`
+
+`print(Hw[:5])  Hello`
+
+`print(Hw[0:5])  Hello`
 
 ## Methods
 
