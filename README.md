@@ -94,14 +94,20 @@ this allows you to get a percentage back
 
 
 ### boolean 
+boolean is a true or false statement
+`a = 5`
+`b = 7`
+`print(a > b)` #false
+`print(a < b)` #true
+
 `hi = "Hello world!"`
 
-`print(hi.isalpha())` this chekcs if everything is aplha numeric
-`print(hi.islower())` 
-`print(hi.endswith("world!"))`
-`print(hi.startswith("H"))`
+`print(hi.isalpha())` this checks if everything is alpha numeric
+`print(hi.islower())` checks if the statement is lower case
+`print(hi.endswith("world!"))` checks if the statement ends with world!
+`print(hi.startswith("H"))` checks if the statement starts with H
 
-![](Python-Boolean-operators.png)
+
 
 ### none is n object type null in alot of other languages 
 
