@@ -21,6 +21,7 @@ tech201_datatypes_and_operators
 `>, <, ==, !=, <=, >=,`
 
 escape characters `\` allows us to use singles quote sin a string. 
+`escape_example = 'I said \'Wow\''`
 
 `reverse_quote = "I said 'Wow!'"
 print(reverse_quote)` this is the one pople tend to use
