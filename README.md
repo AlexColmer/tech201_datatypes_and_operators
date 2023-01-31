@@ -9,7 +9,7 @@ tech201_datatypes_and_operators
 - complex numbers not used very much 
 - Long data types are whole numbers, both positive and negative, that have many place values
 
-- string text of any type,  can use single quotes `''` these are used in text so python won't know where the string will end or double quotes `""`
+- string text of any type,  can use single quotes `''`  or double quotes `""`
 - boolean is a true or false statement 
 
 ## operators 
@@ -27,11 +27,7 @@ print(reverse_quote)` this is the one pople tend to use
 
 
 everyone starts with 0 in code not 1
-String slicing, 
-h e l l o    w o r l d  !
-0  1 2 3 4 5 6 7 8 9 10 11
-
-- indexing works backwards 
+![](List-Slicing.jpg)
 
 ## Methods
 
@@ -54,6 +50,7 @@ example_text = "Here's some text with lots of text"
 `c = "much more"`
 
 `print(a + b + c)`
+this will print (here more much more)
 
 ### casting
 
@@ -90,6 +87,8 @@ this allows you to get a percentage back
 `print(hi.islower())` 
 `print(hi.endswith("world!"))`
 `print(hi.startswith("H"))`
+
+![](Python-Boolean-operators.png)
 
 ### none is n object type null in alot of other languages 
 
